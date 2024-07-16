@@ -25,7 +25,7 @@ vim .env
 ```
 Run 
 ```
-python3 main.py
+python3 sample.py
 ```
 
 ### Notarius API docs: 
